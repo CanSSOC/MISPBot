@@ -1,0 +1,6 @@
+SLACK_APP_TOKEN: "<insert slack app token>"
+SLACK_BOT_TOKEN: "<insert slack bot token>"
+LogLevel: Error
+MISP_API_KEY: "<insert MISP api key>"
+MISP_SERVER: "<insert MISP server url with trailing slash>"
+MISP_VERIFY_CERT: False
